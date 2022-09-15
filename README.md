@@ -1,4 +1,4 @@
-# PoM-Notes
+# FoAM - II PPt's
 
 Week 1 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week1.pdf)
 
