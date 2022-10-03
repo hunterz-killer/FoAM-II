@@ -10,6 +10,10 @@ Week 4 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week4
 
 Week 5 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week5.pdf)
 
+Week 6 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week6.pdf)
+
+Week 7 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week7.pdf)
+
 Week 8 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week8.pdf)
 
 Week 9 - [Github Link](https://github.com/hunterz-killer/FoAM-II/blob/Main/Week9.pdf)
